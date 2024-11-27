@@ -1,0 +1,86 @@
+[
+  {
+    "_id": {
+      "gender": "Female",
+      "stress": "High"
+    },
+    "count": 437
+  },
+  {
+    "_id": {
+      "gender": "Female",
+      "stress": "Low"
+    },
+    "count": 412
+  },
+  {
+    "_id": {
+      "gender": "Female",
+      "stress": "Medium"
+    },
+    "count": 425
+  },
+  {
+    "_id": {
+      "gender": "Male",
+      "stress": "High"
+    },
+    "count": 398
+  },
+  {
+    "_id": {
+      "gender": "Male",
+      "stress": "Low"
+    },
+    "count": 430
+  },
+  {
+    "_id": {
+      "gender": "Male",
+      "stress": "Medium"
+    },
+    "count": 442
+  },
+  {
+    "_id": {
+      "gender": "Non-binary",
+      "stress": "High"
+    },
+    "count": 411
+  },
+  {
+    "_id": {
+      "gender": "Non-binary",
+      "stress": "Low"
+    },
+    "count": 400
+  },
+  {
+    "_id": {
+      "gender": "Non-binary",
+      "stress": "Medium"
+    },
+    "count": 403
+  },
+  {
+    "_id": {
+      "gender": "Prefer not to say",
+      "stress": "High"
+    },
+    "count": 440
+  },
+  {
+    "_id": {
+      "gender": "Prefer not to say",
+      "stress": "Low"
+    },
+    "count": 403
+  },
+  {
+    "_id": {
+      "gender": "Prefer not to say",
+      "stress": "Medium"
+    },
+    "count": 399
+  }
+]

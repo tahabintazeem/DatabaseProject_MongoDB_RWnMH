@@ -1,0 +1,22 @@
+[
+  {
+    "_id": 1,
+    "avgSatisfaction": -0.02
+  },
+  {
+    "_id": 2,
+    "avgSatisfaction": -0.03
+  },
+  {
+    "_id": 3,
+    "avgSatisfaction": 0.03
+  },
+  {
+    "_id": 4,
+    "avgSatisfaction": -0.02
+  },
+  {
+    "_id": 5,
+    "avgSatisfaction": 0.04
+  }
+]

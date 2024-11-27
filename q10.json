@@ -1,0 +1,26 @@
+[
+  {
+    "_id": "Asia",
+    "avgSocialIsolation": 2.98
+  },
+  {
+    "_id": "North America",
+    "avgSocialIsolation": 3.01
+  },
+  {
+    "_id": "South America",
+    "avgSocialIsolation": 2.98
+  },
+  {
+    "_id": "Oceania",
+    "avgSocialIsolation": 3.07
+  },
+  {
+    "_id": "Africa",
+    "avgSocialIsolation": 2.99
+  },
+  {
+    "_id": "Europe",
+    "avgSocialIsolation": 2.94
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "_id": {
+      "Work_Location": "Hybrid",
+      "Productivity_Change": "Decrease"
+    },
+    "count": 591
+  },
+  {
+    "_id": {
+      "Work_Location": "Hybrid",
+      "Productivity_Change": "No Change"
+    },
+    "count": 544
+  },
+  {
+    "_id": {
+      "Work_Location": "Hybrid",
+      "Productivity_Change": "Increase"
+    },
+    "count": 514
+  },
+  {
+    "_id": {
+      "Work_Location": "Onsite",
+      "Productivity_Change": "No Change"
+    },
+    "count": 565
+  },
+  {
+    "_id": {
+      "Work_Location": "Onsite",
+      "Productivity_Change": "Decrease"
+    },
+    "count": 558
+  },
+  {
+    "_id": {
+      "Work_Location": "Onsite",
+      "Productivity_Change": "Increase"
+    },
+    "count": 514
+  },
+  {
+    "_id": {
+      "Work_Location": "Remote",
+      "Productivity_Change": "Decrease"
+    },
+    "count": 588
+  },
+  {
+    "_id": {
+      "Work_Location": "Remote",
+      "Productivity_Change": "No Change"
+    },
+    "count": 568
+  },
+  {
+    "_id": {
+      "Work_Location": "Remote",
+      "Productivity_Change": "Increase"
+    },
+    "count": 558
+  }
+]

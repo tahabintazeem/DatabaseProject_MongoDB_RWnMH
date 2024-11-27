@@ -1,0 +1,26 @@
+[
+  {
+    "_id": "North America",
+    "count": 379
+  },
+  {
+    "_id": "Asia",
+    "count": 405
+  },
+  {
+    "_id": "Oceania",
+    "count": 437
+  },
+  {
+    "_id": "South America",
+    "count": 396
+  },
+  {
+    "_id": "Africa",
+    "count": 421
+  },
+  {
+    "_id": "Europe",
+    "count": 409
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "_id": {
+      "physicalActivity": "Daily",
+      "mentalHealthCondition": "Anxiety"
+    },
+    "count": 417
+  },
+  {
+    "_id": {
+      "physicalActivity": "Daily",
+      "mentalHealthCondition": "Burnout"
+    },
+    "count": 406
+  },
+  {
+    "_id": {
+      "physicalActivity": "Daily",
+      "mentalHealthCondition": "Depression"
+    },
+    "count": 399
+  },
+  {
+    "_id": {
+      "physicalActivity": "Weekly",
+      "mentalHealthCondition": "Anxiety"
+    },
+    "count": 480
+  },
+  {
+    "_id": {
+      "physicalActivity": "Weekly",
+      "mentalHealthCondition": "Burnout"
+    },
+    "count": 448
+  },
+  {
+    "_id": {
+      "physicalActivity": "Weekly",
+      "mentalHealthCondition": "Depression"
+    },
+    "count": 427
+  }
+]
