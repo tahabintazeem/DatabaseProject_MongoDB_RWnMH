@@ -39,3 +39,41 @@ https://www.kaggle.com/datasets/waqi786/remote-work-and-mental-health/data
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/remote-work-mental-health.git
+
+2. Import the dataset into MongoDB:
+mongoimport --db RW&MH --collection relation --type csv --headerline --file /path/to/dataset.csv
+
+3. Open and execute the queries in the queries.mongodb.js file using VS Code or Compass.
+
+### Queries
+
+Queries are saved as:
+
+Project Queries.mongodb
+
+### Query Outputs
+
+Query results are saved as:
+
+Combined results: query-results.json
+Individual query results: q1.json to q12.json
+
+### Future Enhancements
+
+**Visualizations:** Use tools like Tableau, Power BI, or Python (e.g., Matplotlib, Seaborn) to visualize the insights.
+
+**Frontend:** Build an interface (e.g., with React.js) for interactive query execution and result display.
+
+### Contribution
+
+This project is open for collaboration!
+Feel free to fork, clone, or contribute by submitting a pull request.
+For questions or feedback, contact:
+
+Name: Taha Bin Tazeem
+Email: tahabintazeem@gmail.com
+GitHub: @tahabintazeem
+
+### License
+
+This project is licensed under the MIT License.
