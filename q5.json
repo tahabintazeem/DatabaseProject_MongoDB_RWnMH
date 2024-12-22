@@ -4,12 +4,16 @@
     "count": 379
   },
   {
-    "_id": "Asia",
-    "count": 405
+    "_id": "Europe",
+    "count": 409
   },
   {
     "_id": "Oceania",
     "count": 437
+  },
+  {
+    "_id": "Asia",
+    "count": 405
   },
   {
     "_id": "South America",
@@ -18,9 +22,5 @@
   {
     "_id": "Africa",
     "count": 421
-  },
-  {
-    "_id": "Europe",
-    "count": 409
   }
 ]

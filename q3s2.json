@@ -4,11 +4,11 @@
     "avgProductivity": -0.02
   },
   {
-    "_id": "Hybrid",
-    "avgProductivity": -0.05
-  },
-  {
     "_id": "Onsite",
     "avgProductivity": -0.03
+  },
+  {
+    "_id": "Hybrid",
+    "avgProductivity": -0.05
   }
 ]

@@ -1,11 +1,11 @@
 [
   {
-    "_id": "Good",
-    "avgStress": 1.99
-  },
-  {
     "_id": "Poor",
     "avgStress": 2.02
+  },
+  {
+    "_id": "Good",
+    "avgStress": 1.99
   },
   {
     "_id": "Average",

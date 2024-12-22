@@ -1,5 +1,5 @@
 // Select the Database to implement queries on
-use("RW&MH_test")
+use("RW&MH")
 
 // Lists the whole JSON Data
 db.relation.find().toArray()

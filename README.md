@@ -68,10 +68,10 @@ Individual query results: q1.json to q12.json
 
 This project is open for collaboration!
 Feel free to fork, clone, or contribute by submitting a pull request.
+
 For questions or feedback, contact:
 
 Name: Taha Bin Tazeem
-Email: tahabintazeem@gmail.com
 GitHub: @tahabintazeem
 
 ### License

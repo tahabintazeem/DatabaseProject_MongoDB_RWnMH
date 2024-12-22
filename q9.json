@@ -1,11 +1,11 @@
 [
   {
-    "_id": "Data Scientist",
-    "avgWorkLifeBalance": 3.01
-  },
-  {
     "_id": "Project Manager",
     "avgWorkLifeBalance": 2.96
+  },
+  {
+    "_id": "Sales",
+    "avgWorkLifeBalance": 3.04
   },
   {
     "_id": "Software Engineer",
@@ -16,15 +16,15 @@
     "avgWorkLifeBalance": 2.93
   },
   {
-    "_id": "Sales",
-    "avgWorkLifeBalance": 3.04
-  },
-  {
     "_id": "Marketing",
     "avgWorkLifeBalance": 2.95
   },
   {
     "_id": "Designer",
     "avgWorkLifeBalance": 2.97
+  },
+  {
+    "_id": "Data Scientist",
+    "avgWorkLifeBalance": 3.01
   }
 ]
