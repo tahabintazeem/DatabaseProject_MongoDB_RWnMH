@@ -1,0 +1,122 @@
+Query: Distribution of mental health conditions across age groups.
+Insights for q1:
+For q1 - _id: Min = 22, Max = 60, Mean = 41.00
+For q1 - count: Min = 99, Max = 152, Mean = 128.21
+
+Query: How stress levels vary by gender.
+Insights for q2:
+For q2 - count: Min = 398, Max = 442, Mean = 416.67
+
+Query: Effect of work location on productivity - Count based.
+Insights for q3s1:
+For q3s1 - count: Min = 514, Max = 591, Mean = 555.56
+
+Query: Effect of work location on productivity - Average productivity change.
+Insights for q3s2:
+For q3s2 - avgProductivity: Min = -0.05, Max = -0.02, Mean = -0.03
+
+Query: Correlation between number of meetings and stress levels.
+Insights for q4:
+For q4 - _id: Min = 0, Max = 15, Mean = 7.50
+For q4 - count: Min = 90, Max = 123, Mean = 105.38
+
+Query: Access to mental health resources across regions.
+Insights for q5:
+For q5 - count: Min = 379, Max = 437, Mean = 407.83
+
+Query: Impact of company support on employee satisfaction.
+Insights for q6:
+For q6 - _id: Min = 1, Max = 5, Mean = 3.00
+For q6 - avgSatisfaction: Min = -0.03, Max = 0.04, Mean = -0.00
+
+Query: Impact of physical activity on mental health conditions.
+Insights for q7:
+For q7 - count: Min = 399, Max = 480, Mean = 429.50
+
+Query: Relationship between sleep quality and stress.
+Insights for q8:
+For q8 - avgStress: Min = 1.99, Max = 2.02, Mean = 2.01
+
+Query: Job roles with better work-life balance.
+Insights for q9:
+For q9 - avgWorkLifeBalance: Min = 2.93, Max = 3.04, Mean = 2.98
+
+Query: Social isolation differences across regions.
+Insights for q10:
+For q10 - avgSocialIsolation: Min = 2.94, Max = 3.07, Mean = 2.99
+
+Query: Factors contributing to higher productivity in remote settings.
+Insights for q11:
+For q11 - Company_Support_for_Remote_Work: Min = 1, Max = 5, Mean = 2.99
+
+Query: Employees likely to experience burnout based on stress and work-life balance.
+Insights for q12:
+For q12 - Age: Min = 22, Max = 60, Mean = 41.64
+For q12 - Years_of_Experience: Min = 1, Max = 35, Mean = 17.16
+For q12 - Hours_Worked_Per_Week: Min = 20, Max = 60, Mean = 40.40
+For q12 - Number_of_Virtual_Meetings: Min = 0, Max = 15, Mean = 7.50
+For q12 - Work_Life_Balance_Rating: Min = 1, Max = 2, Mean = 1.49
+For q12 - Social_Isolation_Rating: Min = 1, Max = 5, Mean = 3.05
+For q12 - Company_Support_for_Remote_Work: Min = 1, Max = 5, Mean = 3.00
+
+Query: Distribution of mental health conditions across age groups.
+Insights for q1:
+For q1 - _id: Min = 22, Max = 60, Mean = 41.00
+For q1 - count: Min = 99, Max = 152, Mean = 128.21
+
+Query: How stress levels vary by gender.
+Insights for q2:
+For q2 - count: Min = 398, Max = 442, Mean = 416.67
+
+Query: Effect of work location on productivity - Count based.
+Insights for q3s1:
+For q3s1 - count: Min = 514, Max = 591, Mean = 555.56
+
+Query: Effect of work location on productivity - Average productivity change.
+Insights for q3s2:
+For q3s2 - avgProductivity: Min = -0.05, Max = -0.02, Mean = -0.03
+
+Query: Correlation between number of meetings and stress levels.
+Insights for q4:
+For q4 - _id: Min = 0, Max = 15, Mean = 7.50
+For q4 - count: Min = 90, Max = 123, Mean = 105.38
+
+Query: Access to mental health resources across regions.
+Insights for q5:
+For q5 - count: Min = 379, Max = 437, Mean = 407.83
+
+Query: Impact of company support on employee satisfaction.
+Insights for q6:
+For q6 - _id: Min = 1, Max = 5, Mean = 3.00
+For q6 - avgSatisfaction: Min = -0.03, Max = 0.04, Mean = -0.00
+
+Query: Impact of physical activity on mental health conditions.
+Insights for q7:
+For q7 - count: Min = 399, Max = 480, Mean = 429.50
+
+Query: Relationship between sleep quality and stress.
+Insights for q8:
+For q8 - avgStress: Min = 1.99, Max = 2.02, Mean = 2.01
+
+Query: Job roles with better work-life balance.
+Insights for q9:
+For q9 - avgWorkLifeBalance: Min = 2.93, Max = 3.04, Mean = 2.98
+
+Query: Social isolation differences across regions.
+Insights for q10:
+For q10 - avgSocialIsolation: Min = 2.94, Max = 3.07, Mean = 2.99
+
+Query: Factors contributing to higher productivity in remote settings.
+Insights for q11:
+For q11 - Company_Support_for_Remote_Work: Min = 1, Max = 5, Mean = 2.99
+
+Query: Employees likely to experience burnout based on stress and work-life balance.
+Insights for q12:
+For q12 - Age: Min = 22, Max = 60, Mean = 41.64
+For q12 - Years_of_Experience: Min = 1, Max = 35, Mean = 17.16
+For q12 - Hours_Worked_Per_Week: Min = 20, Max = 60, Mean = 40.40
+For q12 - Number_of_Virtual_Meetings: Min = 0, Max = 15, Mean = 7.50
+For q12 - Work_Life_Balance_Rating: Min = 1, Max = 2, Mean = 1.49
+For q12 - Social_Isolation_Rating: Min = 1, Max = 5, Mean = 3.05
+For q12 - Company_Support_for_Remote_Work: Min = 1, Max = 5, Mean = 3.00
+
